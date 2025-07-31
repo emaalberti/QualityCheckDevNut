@@ -1,0 +1,15 @@
+# Core data science
+pandas==2.3.1
+numpy==2.2.4
+
+# Machine Learning / Deep Learning
+torch==2.7.1+cu118
+datasets==3.6.0
+transformers==4.53.2
+huggingface-hub==0.33.4
+
+# Unsloth (custom model optimization)
+unsloth @ git+https://github.com/unslothai/unsloth.git@0eb61fbea728cdc8acd1f2fa1f6f71074f559ac0
+
+# Environment management
+python-dotenv==1.1.1
